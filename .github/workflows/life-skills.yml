@@ -1,5 +1,7 @@
 name: Life Skills acceptance
 on:
+  push:
+    branches: [main]
   pull_request:
     paths:
       - 'apps/life-skills/**'
@@ -57,3 +59,4 @@ jobs:
         with:
           name: life-skills-browser-evidence
           path: life-skills-browser-evidence.json
+
