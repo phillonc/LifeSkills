@@ -10,7 +10,7 @@ time and on budget, without compromising quality.
 
 ## Life Skills application
 
-The first runnable LifeSkills Quest web increment lives in [`apps/life-skills/`](apps/life-skills/README.md). The full four-document product scope is tracked in [`FULL_SCOPE.md`](apps/life-skills/FULL_SCOPE.md) and [`requirements.json`](apps/life-skills/requirements.json). This increment does not complete the full platform. Reproduce DSDM planning and app acceptance evidence with `python -m examples.life_skills_delivery`.
+The first runnable LifeSkills Quest web increment lives in [`apps/life-skills/`](../apps/life-skills/README.md). The full four-document product scope is tracked in [`FULL_SCOPE.md`](../apps/life-skills/FULL_SCOPE.md) and [`requirements.json`](../apps/life-skills/requirements.json). This increment does not complete the full platform. Reproduce DSDM planning and app acceptance evidence with `python -m examples.life_skills_delivery`.
 
 ## Agents framework
 
@@ -47,25 +47,25 @@ result = crew.kickoff(inputs={
 result.output("moscow")["minimum_usable_subset"]
 ```
 
-Full guide: [docs/08-agents-framework.md](docs/08-agents-framework.md).
+Full guide: [docs/08-agents-framework.md](08-agents-framework.md).
 Operating overview (best suited for / not for, agents, worked scenarios):
-[docs/09-framework-overview.md](docs/09-framework-overview.md).
+[docs/09-framework-overview.md](09-framework-overview.md).
 
 ## Documentation
 
-The full framework documentation lives in [`docs/`](docs/):
+The full framework documentation lives in [`docs/`]():
 
 | # | Document | Covers |
 |---|----------|--------|
-| 1 | [Overview](docs/01-overview.md) | What DSDM is, the core "fix time/cost, flex features" idea, and the four pillars |
-| 2 | [Philosophy & Principles](docs/02-principles.md) | The philosophy and the eight non-negotiable principles |
-| 3 | [Roles](docs/03-roles.md) | Project, solution-team, and supporting roles |
-| 4 | [Lifecycle](docs/04-lifecycle.md) | The six phases from Pre-Project to Post-Project |
-| 5 | [Practices](docs/05-practices.md) | MoSCoW, Timeboxing, Iterative Development, Facilitated Workshops, Modelling |
-| 6 | [Products](docs/06-products.md) | The artefacts DSDM produces, by phase |
-| 7 | [Glossary](docs/07-glossary.md) | Quick reference for DSDM terminology |
-| 8 | [Agents Framework](docs/08-agents-framework.md) | The `agents_framework/` package: agents, tools, tasks, crews |
-| 9 | [Framework Overview](docs/09-framework-overview.md) | What the framework is for, what it is *not*, its agents, and worked basic → complex scenarios |
+| 1 | [Overview](01-overview.md) | What DSDM is, the core "fix time/cost, flex features" idea, and the four pillars |
+| 2 | [Philosophy & Principles](02-principles.md) | The philosophy and the eight non-negotiable principles |
+| 3 | [Roles](03-roles.md) | Project, solution-team, and supporting roles |
+| 4 | [Lifecycle](04-lifecycle.md) | The six phases from Pre-Project to Post-Project |
+| 5 | [Practices](05-practices.md) | MoSCoW, Timeboxing, Iterative Development, Facilitated Workshops, Modelling |
+| 6 | [Products](06-products.md) | The artefacts DSDM produces, by phase |
+| 7 | [Glossary](07-glossary.md) | Quick reference for DSDM terminology |
+| 8 | [Agents Framework](08-agents-framework.md) | The `agents_framework/` package: agents, tools, tasks, crews |
+| 9 | [Framework Overview](09-framework-overview.md) | What the framework is for, what it is *not*, its agents, and worked basic → complex scenarios |
 
 ## Quick reference
 
