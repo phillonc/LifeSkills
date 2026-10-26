@@ -1,0 +1,739 @@
+LS001 - 
+# Life Skills - Product Requirements Document (PRD).
+
+## Personal Development & Financial Skills Platform
+
+-----
+
+## Table of Contents
+
+1. [Executive Summary](#executive-summary)
+1. [Product Overview](#product-overview)
+1. [User Stories & Requirements](#user-stories--requirements)
+1. [Functional Requirements](#functional-requirements)
+1. [Non-Functional Requirements](#non-functional-requirements)
+1. [User Experience Requirements](#user-experience-requirements)
+1. [Content Requirements](#content-requirements)
+1. [Integration Requirements](#integration-requirements)
+
+-----
+
+## 1. Executive Summary
+
+### Product Vision
+
+To create a comprehensive online platform that empowers users to develop essential personal development skills and financial literacy through interactive content, practical exercises, and progress tracking.
+
+### Success Metrics
+
+- User engagement: 40%+ monthly return rate
+- Learning completion: 30%+ topic completion rate
+- User satisfaction: 4.5+ star rating
+- Knowledge retention: 80%+ self-reported skill improvement
+
+-----
+
+## 2. Product Overview
+
+### Target Users
+
+- **Primary**: Growth-oriented professionals (25-35 years)
+- **Secondary**: Financial beginners (22-28 years)
+- **Tertiary**: Life transition navigators (35-50 years)
+
+### Core Value Proposition
+
+- Structured, evidence-based personal development content
+- Practical financial skills with interactive tools
+- Progress tracking and personalized learning paths
+- Mobile-responsive, accessible design
+
+-----
+
+## 3. User Stories & Requirements
+
+### Epic 1: User Authentication & Profile Management
+
+#### User Story 1.1: User Registration
+
+**As a** new user  
+**I want to** create an account with email and password  
+**So that** I can access personalized learning content and track my progress
+
+**Prompts for Development:**
+
+- “Create a user registration form with email validation, password strength requirements, and privacy policy acceptance”
+- “Implement email verification flow with confirmation link and resend functionality”
+- “Design onboarding flow that captures user goals and interests for personalization”
+
+**Acceptance Criteria:**
+
+```gherkin
+Feature: User Registration
+  As a new user
+  I want to register for an account
+  So that I can access the platform
+
+  Scenario: Successful account creation
+    Given I am on the registration page
+    When I enter a valid email address "user@example.com"
+    And I enter a strong password "SecurePass123!"
+    And I confirm my password "SecurePass123!"
+    And I accept the terms and conditions
+    And I click the "Create Account" button
+    Then I should see a success message "Please check your email to verify your account"
+    And a verification email should be sent to "user@example.com"
+
+  Scenario: Registration with existing email
+    Given I am on the registration page
+    And an account already exists with email "user@example.com"
+    When I enter email "user@example.com"
+    And I enter a valid password
+    And I click the "Create Account" button
+    Then I should see an error message "An account with this email already exists"
+    And I should remain on the registration page
+
+  Scenario: Registration with weak password
+    Given I am on the registration page
+    When I enter a valid email address
+    And I enter a weak password "123"
+    And I click the "Create Account" button
+    Then I should see an error message "Password must be at least 8 characters with uppercase, lowercase, and number"
+    And the form should not be submitted
+```
+
+#### User Story 1.2: User Login
+
+**As a** registered user  
+**I want to** log into my account  
+**So that** I can access my personalized content and progress
+
+**Prompts for Development:**
+
+- “Create secure login functionality with session management and remember me option”
+- “Implement password reset flow with email verification and secure token generation”
+- “Add social login options (Google, Facebook) with proper OAuth implementation”
+
+**Acceptance Criteria:**
+
+```gherkin
+Feature: User Login
+  As a registered user
+  I want to log into my account
+  So that I can access my personalized dashboard
+
+  Scenario: Successful login with valid credentials
+    Given I am on the login page
+    And I have a verified account with email "user@example.com" and password "SecurePass123!"
+    When I enter email "user@example.com"
+    And I enter password "SecurePass123!"
+    And I click the "Sign In" button
+    Then I should be redirected to the dashboard
+    And I should see a welcome message "Welcome back, [Username]!"
+
+  Scenario: Login with invalid credentials
+    Given I am on the login page
+    When I enter email "user@example.com"
+    And I enter password "wrongpassword"
+    And I click the "Sign In" button
+    Then I should see an error message "Invalid email or password"
+    And I should remain on the login page
+    And the password field should be cleared
+
+  Scenario: Password reset request
+    Given I am on the login page
+    When I click "Forgot Password?"
+    And I enter my email "user@example.com"
+    And I click "Send Reset Link"
+    Then I should see a message "Password reset link sent to your email"
+    And a password reset email should be sent to "user@example.com"
+```
+
+### Epic 2: Personal Development Learning Module
+
+#### User Story 2.1: Topic Navigation
+
+**As a** user  
+**I want to** browse and select personal development topics  
+**So that** I can focus on areas most relevant to my growth needs
+
+**Prompts for Development:**
+
+- “Create an intuitive navigation system with visual progress indicators for each topic”
+- “Implement topic filtering and search functionality with tags and difficulty levels”
+- “Design responsive navigation that works seamlessly on mobile and desktop”
+
+**Acceptance Criteria:**
+
+```gherkin
+Feature: Topic Navigation
+  As a user
+  I want to navigate between personal development topics
+  So that I can choose what to learn
+
+  Background:
+    Given I am logged in as a user
+    And I am on the Personal Development dashboard
+
+  Scenario: View all available topics
+    When I navigate to the Personal Development section
+    Then I should see 9 main topics displayed
+    And each topic should show:
+      | Element | Description |
+      | Icon | Visual representation of the topic |
+      | Title | Clear topic name |
+      | Description | Brief overview of what I'll learn |
+      | Progress | Percentage of completion |
+      | Subtopic Count | Number of subtopics available |
+
+  Scenario: Select a topic to explore
+    When I click on "Emotional Intelligence" topic
+    Then I should see the topic overview page
+    And I should see 5 subtopics listed
+    And I should see my progress for this topic
+    And the first uncompleted subtopic should be highlighted
+
+  Scenario: Navigate between subtopics
+    Given I am viewing the "Emotional Intelligence" topic
+    When I click on "Understanding Emotions" subtopic
+    Then I should see the subtopic content
+    And I should see navigation tabs for all 5 subtopics
+    And the current subtopic should be marked as active
+```
+
+#### User Story 2.2: Interactive Learning Content
+
+**As a** user  
+**I want to** engage with interactive learning content  
+**So that** I can actively participate in my personal development
+
+**Prompts for Development:**
+
+- “Create engaging content presentation with multimedia elements, progress tracking, and interactive exercises”
+- “Implement exercise completion tracking with personalized feedback and recommendations”
+- “Design adaptive content that adjusts to user preferences and learning style”
+
+**Acceptance Criteria:**
+
+```gherkin
+Feature: Interactive Learning Content
+  As a user
+  I want to engage with interactive content
+  So that I can learn effectively
+
+  Background:
+    Given I am logged in
+    And I have selected "Emotional Intelligence" topic
+    And I am viewing "Understanding Emotions" subtopic
+
+  Scenario: View subtopic content
+    Then I should see:
+      | Element | Content |
+      | Title | "Understanding Emotions" |
+      | Description | Clear explanation of the concept |
+      | Learning Objectives | What I will achieve |
+      | Content Body | Detailed educational content |
+      | Practice Exercise | Interactive exercise section |
+      | Progress Indicator | My completion status |
+
+  Scenario: Complete a practice exercise
+    When I scroll to the practice exercise section
+    And I see "Emotion Wheel Exercise: Use the interactive emotion wheel to identify and label your current emotional state"
+    And I click "Start Exercise"
+    Then I should see the exercise interface
+    And I should be able to interact with the exercise
+    When I complete the exercise
+    And I click "Mark as Complete"
+    Then I should see a success message "Great job! Exercise completed"
+    And my progress should update to show completion
+    And the exercise should be marked with a checkmark
+
+  Scenario: Track learning progress
+    Given I have completed 2 out of 5 subtopics in "Emotional Intelligence"
+    When I view my topic progress
+    Then I should see "Progress: 40% (2/5 completed)"
+    And completed subtopics should be marked with checkmarks
+    And the next recommended subtopic should be highlighted
+```
+
+### Epic 3: Financial Skills Module
+
+#### User Story 3.1: Financial Calculator Tools
+
+**As a** user  
+**I want to** use financial calculators and tools  
+**So that** I can make informed financial decisions
+
+**Prompts for Development:**
+
+- “Create comprehensive financial calculators with real-time calculations, visual charts, and detailed breakdowns”
+- “Implement input validation, error handling, and user-friendly interfaces for all financial tools”
+- “Design mobile-responsive calculator interfaces with touch-friendly inputs and clear result displays”
+
+**Acceptance Criteria:**
+
+```gherkin
+Feature: Financial Calculator Tools
+  As a user
+  I want to use financial calculators
+  So that I can make informed financial decisions
+
+  Background:
+    Given I am logged in
+    And I am on the Financial Skills dashboard
+
+  Scenario: Access compound interest calculator
+    When I click on "Financial Literacy" topic
+    And I navigate to "Understanding Interest Rates" subtopic
+    And I click on "Interest Calculator" tool
+    Then I should see the calculator modal
+    And the calculator should have the following fields:
+      | Field | Type | Placeholder |
+      | Amount | Number Input | "Enter amount" |
+      | Interest Rate | Number Input | "Enter rate" |
+      | Term | Number Input | "Enter term" |
+      | Calculation Type | Dropdown | "Simple Interest" selected |
+      | Compounding Frequency | Dropdown | "Monthly" selected |
+
+  Scenario: Calculate simple interest
+    Given I have the interest calculator open
+    When I enter "1000" in the Amount field
+    And I enter "5" in the Interest Rate field
+    And I enter "2" in the Term field
+    And I select "Simple Interest" from the Calculation Type
+    And I click "Calculate"
+    Then I should see the result "Final Amount: $1,100.00"
+    And the result should be displayed prominently
+    And I should see a breakdown of the calculation
+
+  Scenario: Calculate compound interest with visualization
+    Given I have the interest calculator open
+    When I enter "1000" in the Amount field
+    And I enter "5" in the Interest Rate field
+    And I enter "5" in the Term field
+    And I select "Compound Interest" from the Calculation Type
+    And I select "Monthly" from the Compounding Frequency
+    And I click "Calculate"
+    Then I should see the final amount calculated
+    And I should see a chart showing growth over time
+    And I should see year-by-year breakdown data
+```
+
+#### User Story 3.2: Budget Planning Tools
+
+**As a** user  
+**I want to** create and manage personal budgets  
+**So that** I can control my spending and achieve financial goals
+
+**Prompts for Development:**
+
+- “Create intuitive budget creation wizard with category suggestions, spending tracking, and goal setting”
+- “Implement budget analysis with visual charts, spending alerts, and recommendation system”
+- “Design export functionality for budget data and integration with popular financial apps”
+
+**Acceptance Criteria:**
+
+```gherkin
+Feature: Budget Planning Tools
+  As a user
+  I want to create and manage budgets
+  So that I can control my finances
+
+  Background:
+    Given I am logged in
+    And I am on the "Budgeting" topic page
+
+  Scenario: Create a new budget
+    When I click on "Budget Builder" tool
+    Then I should see the budget creation wizard
+    And I should see pre-defined categories:
+      | Category | Default Percentage |
+      | Housing | 30% |
+      | Transportation | 15% |
+      | Food | 12% |
+      | Utilities | 8% |
+      | Entertainment | 5% |
+      | Savings | 20% |
+      | Other | 10% |
+
+  Scenario: Set up monthly budget
+    Given I am in the budget creation wizard
+    When I enter "4000" as my monthly income
+    And I adjust "Housing" to "1200"
+    And I adjust "Transportation" to "600"
+    And I adjust "Food" to "480"
+    And I click "Create Budget"
+    Then I should see my budget summary
+    And I should see "Total Allocated: $2,280"
+    And I should see "Remaining: $1,720"
+    And I should see a pie chart of my budget allocation
+
+  Scenario: Track budget performance
+    Given I have created a budget
+    And I have entered some expenses
+    When I view my budget dashboard
+    Then I should see my progress for each category
+    And categories over budget should be highlighted in red
+    And I should see "Days remaining in budget period: X"
+    And I should see spending recommendations
+```
+
+### Epic 4: Progress Tracking System
+
+#### User Story 4.1: Personal Dashboard
+
+**As a** user  
+**I want to** view my learning progress and achievements  
+**So that** I can stay motivated and track my growth
+
+**Prompts for Development:**
+
+- “Create comprehensive dashboard with visual progress indicators, recent activity, and personalized recommendations”
+- “Implement achievement system with badges, streaks, and milestone celebrations”
+- “Design data visualization components for learning analytics and progress trends”
+
+**Acceptance Criteria:**
+
+```gherkin
+Feature: Personal Dashboard
+  As a user
+  I want to view my learning progress
+  So that I can track my growth
+
+  Background:
+    Given I am logged in
+    And I have completed some learning activities
+
+  Scenario: View dashboard overview
+    When I navigate to my dashboard
+    Then I should see:
+      | Section | Content |
+      | Welcome Message | "Welcome back, [Username]!" |
+      | Overall Progress | Total completion percentage |
+      | Current Streak | Days of consecutive activity |
+      | Recent Activity | Last 5 completed exercises |
+      | Recommendations | Suggested next topics |
+      | Achievements | Earned badges and milestones |
+
+  Scenario: View detailed progress breakdown
+    Given I am on my dashboard
+    When I click on "View Detailed Progress"
+    Then I should see progress for each main topic:
+      | Topic | Completion | Subtopics Done | Time Spent |
+      | Emotional Intelligence | 80% | 4/5 | 2.5 hours |
+      | Resilience | 60% | 3/5 | 1.8 hours |
+      | Financial Literacy | 20% | 1/5 | 0.5 hours |
+    And I should see a progress chart over time
+    And I should see my learning velocity trends
+
+  Scenario: Celebrate achievement milestone
+    Given I have just completed my 10th exercise
+    When I navigate to my dashboard
+    Then I should see a celebration modal
+    And I should see "Congratulations! You've completed 10 exercises!"
+    And I should see a new badge "Dedicated Learner"
+    And the achievement should be added to my profile
+```
+
+#### User Story 4.2: Goal Setting and Tracking
+
+**As a** user  
+**I want to** set personal learning goals and track progress  
+**So that** I can maintain focus and motivation
+
+**Prompts for Development:**
+
+- “Create goal-setting interface with SMART goal framework, progress tracking, and deadline management”
+- “Implement reminder system with notifications, email alerts, and progress nudges”
+- “Design goal analytics with success rate tracking, time-to-completion analysis, and improvement suggestions”
+
+**Acceptance Criteria:**
+
+```gherkin
+Feature: Goal Setting and Tracking
+  As a user
+  I want to set and track learning goals
+  So that I can stay focused and motivated
+
+  Background:
+    Given I am logged in
+    And I am on my dashboard
+
+  Scenario: Create a new learning goal
+    When I click "Set New Goal"
+    Then I should see the goal creation form
+    And I should see goal template options:
+      | Template | Description |
+      | Complete Topic | Finish all subtopics in a chosen topic |
+      | Daily Practice | Complete exercises daily for X days |
+      | Skill Building | Focus on specific skill development |
+      | Time-based | Spend X hours learning per week |
+
+  Scenario: Set up a "Complete Topic" goal
+    Given I am creating a new goal
+    When I select "Complete Topic" template
+    And I choose "Emotional Intelligence" as the topic
+    And I set deadline to "30 days from today"
+    And I enter goal name "Master Emotional Intelligence"
+    And I click "Create Goal"
+    Then I should see my new goal on the dashboard
+    And I should see "Progress: 0/5 subtopics completed"
+    And I should see "29 days remaining"
+    And I should receive a confirmation "Goal created successfully!"
+
+  Scenario: Track goal progress
+    Given I have a goal to complete "Emotional Intelligence" topic
+    And I have completed 3 out of 5 subtopics
+    When I view my goal progress
+    Then I should see "Progress: 60% (3/5 completed)"
+    And I should see a progress bar at 60%
+    And I should see "Estimated completion: 8 days"
+    And I should see "On track to meet your deadline!"
+
+  Scenario: Goal completion celebration
+    Given I have a goal to complete "Emotional Intelligence" topic
+    And I have completed 4 out of 5 subtopics
+    When I complete the 5th subtopic
+    Then I should see a goal completion celebration
+    And I should see "🎉 Goal Completed! You mastered Emotional Intelligence!"
+    And the goal should be marked as "Completed" in my goals list
+    And I should receive an achievement badge "Goal Achiever"
+```
+
+### Epic 5: Mobile Responsiveness
+
+#### User Story 5.1: Mobile Navigation
+
+**As a** mobile user  
+**I want to** easily navigate the platform on my phone  
+**So that** I can learn on-the-go
+
+**Prompts for Development:**
+
+- “Create mobile-first navigation with hamburger menu, touch-friendly buttons, and optimized spacing”
+- “Implement swipe gestures for content navigation and mobile-specific interaction patterns”
+- “Design adaptive layouts that work seamlessly across all screen sizes and orientations”
+
+**Acceptance Criteria:**
+
+```gherkin
+Feature: Mobile Navigation
+  As a mobile user
+  I want to navigate easily on my phone
+  So that I can learn anywhere
+
+  Background:
+    Given I am using a mobile device
+    And I am logged into the platform
+
+  Scenario: Access mobile navigation menu
+    When I open the app on my mobile device
+    Then I should see a hamburger menu icon in the top-left corner
+    When I tap the hamburger menu
+    Then I should see the navigation menu slide in from the left
+    And I should see all main sections:
+      | Section | Icon Present |
+      | Dashboard | ✓ |
+      | Personal Development | ✓ |
+      | Financial Skills | ✓ |
+      | Progress | ✓ |
+      | Settings | ✓ |
+
+  Scenario: Navigate between topics on mobile
+    Given I am in the Personal Development section
+    When I swipe left on the topic list
+    Then I should see the next set of topics
+    When I tap on "Emotional Intelligence"
+    Then I should see the subtopics in a mobile-optimized layout
+    And all buttons should be touch-friendly (minimum 44px height)
+    And text should be readable without zooming
+
+  Scenario: Use mobile calculator
+    Given I am in the Financial Skills section
+    When I open the compound interest calculator
+    Then the calculator should fill the mobile screen appropriately
+    And number inputs should trigger the numeric keyboard
+    And all form fields should be easily tappable
+    And the "Calculate" button should be prominent and accessible
+```
+
+-----
+
+## 4. Functional Requirements
+
+### 4.1 Authentication System
+
+- User registration with email verification
+- Secure login/logout with session management
+- Password reset functionality
+- Social login integration (Google, Facebook)
+- User profile management
+
+### 4.2 Learning Content Management
+
+- Hierarchical content structure (topics → subtopics)
+- Interactive exercise tracking
+- Progress persistence across sessions
+- Content search and filtering
+- Personalized content recommendations
+
+### 4.3 Financial Tools
+
+- Compound interest calculator
+- Loan payment calculator
+- Budget planning tools
+- Investment return calculators
+- Financial goal tracking
+
+### 4.4 Progress Tracking
+
+- Individual exercise completion tracking
+- Topic-level progress calculation
+- Overall platform progress metrics
+- Achievement and badge system
+- Learning streak tracking
+
+### 4.5 User Interface
+
+- Responsive design for all devices
+- Accessibility compliance (WCAG 2.1)
+- Dark/light theme options
+- Customizable dashboard layout
+- Mobile-optimized interactions
+
+-----
+
+## 5. Non-Functional Requirements
+
+### 5.1 Performance
+
+- Page load time: < 3 seconds
+- Time to interactive: < 5 seconds
+- 99.9% uptime availability
+- Support for 10,000 concurrent users
+- Database query response: < 500ms
+
+### 5.2 Security
+
+- HTTPS encryption for all communications
+- OWASP security compliance
+- Regular security audits and penetration testing
+- Data encryption at rest and in transit
+- Secure authentication with JWT tokens
+
+### 5.3 Scalability
+
+- Horizontal scaling capability
+- CDN integration for global content delivery
+- Database optimization for growth
+- Auto-scaling infrastructure support
+- Performance monitoring and alerting
+
+### 5.4 Usability
+
+- Intuitive user interface requiring no training
+- Mobile-first design approach
+- Cross-browser compatibility (Chrome, Firefox, Safari, Edge)
+- Keyboard navigation support
+- Screen reader compatibility
+
+-----
+
+## 6. User Experience Requirements
+
+### 6.1 Onboarding Experience
+
+- Welcome tour for new users
+- Goal-setting wizard
+- Personalization preferences
+- Sample content preview
+- Quick wins to build engagement
+
+### 6.2 Learning Experience
+
+- Clear learning paths and progression
+- Immediate feedback on exercises
+- Progress visualization
+- Achievement celebrations
+- Peer comparison (optional)
+
+### 6.3 Error Handling
+
+- User-friendly error messages
+- Graceful degradation for network issues
+- Auto-save functionality
+- Data recovery options
+- Offline mode support
+
+-----
+
+## 7. Content Requirements
+
+### 7.1 Personal Development Content
+
+- 9 main topics with 5 subtopics each (45 total)
+- Evidence-based learning materials
+- Interactive exercises for each subtopic
+- Multimedia content integration
+- Regular content updates and improvements
+
+### 7.2 Financial Skills Content
+
+- 6 main topics with detailed subtopics
+- Practical financial tools and calculators
+- Real-world application examples
+- Updated financial information and rates
+- Compliance with financial education standards
+
+### 7.3 Content Quality Standards
+
+- Expert review and validation
+- Accessibility compliance for all content
+- Multi-format content delivery (text, video, interactive)
+- Regular accuracy updates
+- User feedback integration
+
+-----
+
+## 8. Integration Requirements
+
+### 8.1 Third-Party Services
+
+- Email service provider (SendGrid/Mailgun)
+- Analytics platform (Google Analytics)
+- Social login providers (Google, Facebook)
+- Payment processing (Stripe) - future phase
+- Cloud storage (AWS S3/CloudFront)
+
+### 8.2 API Requirements
+
+- RESTful API design
+- API documentation with Swagger
+- Rate limiting and throttling
+- API versioning strategy
+- Webhook support for integrations
+
+### 8.3 Data Export/Import
+
+- User data export functionality
+- Progress data portability
+- Content backup and restore
+- Integration with external learning platforms
+- Bulk data operations support
+
+-----
+
+## Approval Sign-off
+
+|Role          |Name|Signature|Date|
+|--------------|----|---------|----|
+|Product Owner |    |         |    |
+|Technical Lead|    |         |    |
+|UX Designer   |    |         |    |
+|QA Lead       |    |         |    |
+
+-----
+
+**Document Version:** 1.0  
+**Last Updated:** [Current Date]  
+**Next Review:** [Date + 30 days]

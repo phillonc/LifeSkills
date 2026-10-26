@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "browser": "153.0.8010.0",
+  "checks": [
+    "Browser registration, verification and sign-in",
+    "Four goal templates and persisted daily goal creation",
+    "Savings goal and contribution update through rendered UI",
+    "Lesson autosave and dashboard resume restore reflection and quiz selection",
+    "Draft restored after full browser reload",
+    "Save failure retains unsaved lesson and recovery saves without private browser storage",
+    "Server-scored completion clears saved draft",
+    "Learning analytics render activity and topic duration tables",
+    "390px mobile layouts fit viewport and navigation opens",
+    "No uncaught browser JavaScript errors"
+  ],
+  "limitations": [
+    "Chromium only",
+    "No WCAG conformance certification",
+    "Time tracking is an activity estimate",
+    "No live SMTP or deployed HTTPS verification"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "ok": true,
+  "products": {
+    "raw_requirements": [
+      {
+        "title": "Secure learner account lifecycle",
+        "priority": "Must",
+        "effort": 8
+      },
+      {
+        "title": "Learning catalog, exercises and persistent progress",
+        "priority": "Must",
+        "effort": 8
+      },
+      {
+        "title": "Budgeting and financial calculators",
+        "priority": "Must",
+        "effort": 5
+      },
+      {
+        "title": "Goals, journal and achievements",
+        "priority": "Should",
+        "effort": 5
+      },
+      {
+        "title": "Responsive accessible interface and themes",
+        "priority": "Should",
+        "effort": 5
+      },
+      {
+        "title": "Data portability and account deletion",
+        "priority": "Should",
+        "effort": 4
+      },
+      {
+        "title": "Native mobile clients",
+        "priority": "Won't",
+        "effort": 13
+      },
+      {
+        "title": "AI coaches and marketplace integrations",
+        "priority": "Won't",
+        "effort": 21
+      }
+    ],
+    "timebox_capacity": 35,
+    "prl": [
+      {
+        "id": "R001",
+        "title": "Secure learner account lifecycle",
+        "priority": "M",
+        "effort": 8.0
+      },
+      {
+        "id": "R002",
+        "title": "Learning catalog, exercises and persistent progress",
+        "priority": "M",
+        "effort": 8.0
+      },
+      {
+        "id": "R003",
+        "title": "Budgeting and financial calculators",
+        "priority": "M",
+        "effort": 5.0
+      },
+      {
+        "id": "R004",
+        "title": "Goals, journal and achievements",
+        "priority": "S",
+        "effort": 5.0
+      },
+      {
+        "id": "R005",
+        "title": "Responsive accessible interface and themes",
+        "priority": "S",
+        "effort": 5.0
+      },
+      {
+        "id": "R006",
+        "title": "Data portability and account deletion",
+        "priority": "S",
+        "effort": 4.0
+      },
+      {
+        "id": "R007",
+        "title": "Native mobile clients",
+        "priority": "W",
+        "effort": 13.0
+      },
+      {
+        "id": "R008",
+        "title": "AI coaches and marketplace integrations",
+        "priority": "W",
+        "effort": 21.0
+      }
+    ],
+    "moscow": {
+      "minimum_usable_subset": [
+        {
+          "id": "R001",
+          "title": "Secure learner account lifecycle",
+          "priority": "M",
+          "effort": 8.0
+        },
+        {
+          "id": "R002",
+          "title": "Learning catalog, exercises and persistent progress",
+          "priority": "M",
+          "effort": 8.0
+        },
+        {
+          "id": "R003",
+          "title": "Budgeting and financial calculators",
+          "priority": "M",
+          "effort": 5.0
+        }
+      ],
+      "effort_by_priority": {
+        "Must Have": 21.0,
+        "Should Have": 14.0,
+        "Could Have": 0.0,
+        "Won't Have": 34.0
+      },
+      "delivered_effort": 35.0,
+      "must_have_pct": 60.0,
+      "balanced": true,
+      "warnings": []
+    },
+    "timebox_plan": {
+      "length_weeks": 2,
+      "capacity": 35,
+      "committed_effort": 35.0,
+      "utilisation_pct": 100.0,
+      "included": [
+        {
+          "id": "R001",
+          "title": "Secure learner account lifecycle",
+          "priority": "M",
+          "effort": 8.0
+        },
+        {
+          "id": "R002",
+          "title": "Learning catalog, exercises and persistent progress",
+          "priority": "M",
+          "effort": 8.0
+        },
+        {
+          "id": "R003",
+          "title": "Budgeting and financial calculators",
+          "priority": "M",
+          "effort": 5.0
+        },
+        {
+          "id": "R004",
+          "title": "Goals, journal and achievements",
+          "priority": "S",
+          "effort": 5.0
+        },
+        {
+          "id": "R005",
+          "title": "Responsive accessible interface and themes",
+          "priority": "S",
+          "effort": 5.0
+        },
+        {
+          "id": "R006",
+          "title": "Data portability and account deletion",
+          "priority": "S",
+          "effort": 4.0
+        }
+      ],
+      "deferred": [],
+      "warnings": []
+    },
+    "implementation": {
+      "agent": "Solution Developer",
+      "files": {
+        "server.py": "b6aec719633d2da56dfee25910ef47258d9aece40c442c564a266879c65d3525",
+        "learning.py": "71544efe2cd00d4c4bbb452e2e5e75a529a8f00234fefd71d1a101262a8e1d4c",
+        "content.json": "5cda5f570c3e58866a3ac7752054518a4c71bb35aa72ccb8f27938749d7440dd",
+        "static/index.html": "c1ee4eb4942465fd7ea64bcb0a0703f132c35bf1d158a24061e5435277e72e01",
+        "static/app.js": "d0bf3c482145cf79331575bd921ce0e347c360477bbb1fbca59b13655432fe24",
+        "static/styles.css": "d4e4ae6e6c9a03d6c58f59d792c1a81fa39e0e70b2b8020f549f75c049949a17",
+        "tests/test_http.py": "47b197550a37b46184f802ec6108cb8e3d4220080029df6c73eecc716b29b143",
+        "tests/test_learning.py": "ce048a09a09d4453b5067b57ee427c96705b1a0623f86bbcb79c591a51e62cb7",
+        "scripts/browser-acceptance.cjs": "1cde861c27cb5c965b6866499a359cdb54271ed0b9ce1044d35121963bfa49f4",
+        "requirements.json": "a17e8d4608780c3474c93e0c8e867146bc265f8cebdeb0eef948ec9848d5fed2"
+      }
+    },
+    "acceptance": {
+      "agent": "Solution Tester",
+      "command": "python -m unittest discover -s apps/life-skills/tests -v",
+      "exit_code": 0,
+      "output": "test_01_registration_validation_and_private_routes (test_http.AcceptanceTests.test_01_registration_validation_and_private_routes) ... ok\ntest_02_csrf_and_security_headers (test_http.AcceptanceTests.test_02_csrf_and_security_headers) ... ok\ntest_03_catalog_and_server_scored_progress (test_http.AcceptanceTests.test_03_catalog_and_server_scored_progress) ... ok\ntest_04_journal_privacy_and_delete_ownership (test_http.AcceptanceTests.test_04_journal_privacy_and_delete_ownership) ... ok\ntest_05_budget_expenses_and_validation (test_http.AcceptanceTests.test_05_budget_expenses_and_validation) ... ok\ntest_06_calculators_match_prd_and_zero_rate (test_http.AcceptanceTests.test_06_calculators_match_prd_and_zero_rate) ... ok\ntest_07_goals_persist_and_are_owned (test_http.AcceptanceTests.test_07_goals_persist_and_are_owned) ... ok\ntest_08_reset_revokes_sessions_export_and_account_deletion (test_http.AcceptanceTests.test_08_reset_revokes_sessions_export_and_account_deletion) ... ok\ntest_09_static_entry_assets_resolve (test_http.AcceptanceTests.test_09_static_entry_assets_resolve) ... ok\ntest_10_logout_invalidates_session (test_http.AcceptanceTests.test_10_logout_invalidates_session) ... ok\ntest_11_invalid_nested_payloads_are_client_errors (test_http.AcceptanceTests.test_11_invalid_nested_payloads_are_client_errors) ... ok\ntest_01_drafts_survive_relogin_and_stay_private (test_learning.LearningTests.test_01_drafts_survive_relogin_and_stay_private) ... ok\ntest_02_unearned_time_and_duplicate_save_do_not_inflate_progress (test_learning.LearningTests.test_02_unearned_time_and_duplicate_save_do_not_inflate_progress) ... ok\ntest_03_all_goal_templates_validate_and_compute (test_learning.LearningTests.test_03_all_goal_templates_validate_and_compute) ... ok\ntest_04_analytics_reminders_are_private_and_server_derived (test_learning.LearningTests.test_04_analytics_reminders_are_private_and_server_derived) ... ok\ntest_05_savings_money_precision_ownership_and_export (test_learning.LearningTests.test_05_savings_money_precision_ownership_and_export) ... ok\ntest_06_account_deletion_cascades_new_private_records (test_learning.LearningTests.test_06_account_deletion_cascades_new_private_records) ... ok\ntest_07_goal_windows_exclude_old_activity_and_keep_earned_streak (test_learning.LearningTests.test_07_goal_windows_exclude_old_activity_and_keep_earned_streak) ... ok\ntest_existing_goal_schema_migrates_without_data_loss (test_learning.MigrationTests.test_existing_goal_schema_migrates_without_data_loss) ... ok\n\n----------------------------------------------------------------------\nRan 19 tests in 2.423s\n\nOK\n"
+    }
+  },
+  "errors": []
+}

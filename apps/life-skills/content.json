@@ -1,0 +1,2822 @@
+[
+  {
+    "id": "emotional-intelligence",
+    "title": "Emotional Intelligence",
+    "domain": "Personal Development",
+    "description": "Build practical emotional intelligence skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "emotional-intelligence-1",
+        "title": "Understanding Emotions",
+        "minutes": 8,
+        "objectives": [
+          "Explain understanding emotions in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Emotions provide information, rather than instructions. Notice body sensations, name your feeling precisely, and separate the event from your interpretation. You can feel disappointed and still choose a constructive response.",
+          "Practice focus: Understanding Emotions. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "A colleague cancels a meeting. Write the event, your interpretation, the emotion, and an alternative explanation.",
+        "quiz": [
+          {
+            "question": "Which response separates an event from an interpretation?",
+            "options": [
+              "They cancelled because they dislike me.",
+              "The meeting was cancelled. I feel disappointed and do not yet know why.",
+              "I should never feel disappointed."
+            ],
+            "answer": 1,
+            "explanation": "A factual description leaves room for multiple explanations and a considered response."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "emotional-intelligence-2",
+        "title": "Empathy Development",
+        "minutes": 8,
+        "objectives": [
+          "Explain empathy development in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Empathy means trying to understand another person’s perspective without assuming you already know it. Listen without preparing your reply. Reflect what you heard, ask an open question, and check your understanding. You can understand someone without agreeing with every choice.",
+          "Practice focus: Empathy Development. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Write two open questions you could ask someone who is frustrated. Add a sentence reflecting their feelings without diagnosing them.",
+        "quiz": [
+          {
+            "question": "What best demonstrates empathy?",
+            "options": [
+              "Immediately give advice.",
+              "Tell them their problem is small.",
+              "Ask what feels hardest and listen before suggesting solutions."
+            ],
+            "answer": 2,
+            "explanation": "Listening and checking understanding respects the other person’s perspective."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "emotional-intelligence-3",
+        "title": "Emotion Regulation Techniques",
+        "minutes": 8,
+        "objectives": [
+          "Explain emotion regulation techniques in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Self-regulation creates time between a feeling and an action. Notice your trigger, pause, take a comfortable breath, and decide what you want the conversation to achieve. If safe, take a short break and agree a time to return. Regulation does not require denying or suppressing every emotion.",
+          "Practice focus: Emotion Regulation Techniques. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a recent trigger. Create a pause plan with one physical cue, one safe action, and one constructive sentence.",
+        "quiz": [
+          {
+            "question": "When anger rises in a conversation, what is a useful next step?",
+            "options": [
+              "Pause and agree to return when you can listen.",
+              "Send an insulting message immediately.",
+              "Pretend the problem will never matter."
+            ],
+            "answer": 0,
+            "explanation": "A pause can reduce impulsive reactions while keeping a route back to the conversation."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "emotional-intelligence-4",
+        "title": "Social Skills Enhancement",
+        "minutes": 8,
+        "objectives": [
+          "Explain social skills enhancement in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Social skills combine clear expression, listening, and respectful boundaries. Use an observation, describe its impact, and make a specific request. For example: When the deadline changes without notice, I cannot plan my work. Could we confirm changes in writing?",
+          "Practice focus: Social Skills Enhancement. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Rewrite a difficult conversation using an observation, its impact, and a specific request.",
+        "quiz": [
+          {
+            "question": "Which statement makes a clear respectful request?",
+            "options": [
+              "You always ruin everything.",
+              "Could we confirm deadline changes in writing?",
+              "You should know what I want."
+            ],
+            "answer": 1,
+            "explanation": "A specific request is actionable and avoids blaming someone’s character."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "emotional-intelligence-5",
+        "title": "Self-Reflection Practices",
+        "minutes": 8,
+        "objectives": [
+          "Explain self-reflection practices in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Reflection helps turn experience into a practice plan. Describe what happened, what you felt, what you chose, and what you might try next. Self-report is a learning aid, not a clinical test or a validated ability score. Track small behaviours you can practise, rather than labelling yourself good or bad.",
+          "Practice focus: Self-Reflection Practices. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Reflect on one interaction. Identify a strength, a response to change, and a specific action you will practise this week.",
+        "quiz": [
+          {
+            "question": "What is the most useful reflection goal?",
+            "options": [
+              "Become perfect at every relationship.",
+              "Never feel any difficult emotions.",
+              "Ask one clarifying question before responding in tomorrow’s meeting."
+            ],
+            "answer": 2,
+            "explanation": "A specific, observable action makes practice and review possible."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "resilience-and-coping-skills",
+    "title": "Resilience and Coping Skills",
+    "domain": "Personal Development",
+    "description": "Build practical resilience and coping skills skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "resilience-and-coping-skills-1",
+        "title": "Building a Resilient Mindset",
+        "minutes": 8,
+        "objectives": [
+          "Explain building a resilient mindset in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Identify the parts of a difficult situation you can influence. Choose one manageable action and one person or service you can ask for support. Rest and adjusting expectations can be part of coping, rather than evidence of failure.",
+          "Practice focus: Building a Resilient Mindset. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Name a current challenge, one controllable step, and one source of support.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "resilience-and-coping-skills-2",
+        "title": "Stress Management Techniques",
+        "minutes": 8,
+        "objectives": [
+          "Explain stress management techniques in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Identify the parts of a difficult situation you can influence. Choose one manageable action and one person or service you can ask for support. Rest and adjusting expectations can be part of coping, rather than evidence of failure.",
+          "Practice focus: Stress Management Techniques. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Name a current challenge, one controllable step, and one source of support.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "resilience-and-coping-skills-3",
+        "title": "Coping Strategies for Adversity",
+        "minutes": 8,
+        "objectives": [
+          "Explain coping strategies for adversity in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Identify the parts of a difficult situation you can influence. Choose one manageable action and one person or service you can ask for support. Rest and adjusting expectations can be part of coping, rather than evidence of failure.",
+          "Practice focus: Coping Strategies for Adversity. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Name a current challenge, one controllable step, and one source of support.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "resilience-and-coping-skills-4",
+        "title": "Positive Thinking and Affirmations",
+        "minutes": 8,
+        "objectives": [
+          "Explain positive thinking and affirmations in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Identify the parts of a difficult situation you can influence. Choose one manageable action and one person or service you can ask for support. Rest and adjusting expectations can be part of coping, rather than evidence of failure.",
+          "Practice focus: Positive Thinking and Affirmations. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Name a current challenge, one controllable step, and one source of support.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "resilience-and-coping-skills-5",
+        "title": "Support Networks",
+        "minutes": 8,
+        "objectives": [
+          "Explain support networks in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Identify the parts of a difficult situation you can influence. Choose one manageable action and one person or service you can ask for support. Rest and adjusting expectations can be part of coping, rather than evidence of failure.",
+          "Practice focus: Support Networks. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Name a current challenge, one controllable step, and one source of support.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "self-motivation",
+    "title": "Self-Motivation",
+    "domain": "Personal Development",
+    "description": "Build practical self-motivation skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "self-motivation-1",
+        "title": "Goal Setting and Planning",
+        "minutes": 8,
+        "objectives": [
+          "Explain goal setting and planning in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Connect a task to a value you care about. Make the next action small and concrete, choose when and where to do it, and reduce one source of friction. Review what worked instead of relying on feeling motivated every day.",
+          "Practice focus: Goal Setting and Planning. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Choose a goal and write a five-minute first step with a time and place.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-motivation-2",
+        "title": "Intrinsic vs. Extrinsic Motivation",
+        "minutes": 8,
+        "objectives": [
+          "Explain intrinsic vs. extrinsic motivation in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Connect a task to a value you care about. Make the next action small and concrete, choose when and where to do it, and reduce one source of friction. Review what worked instead of relying on feeling motivated every day.",
+          "Practice focus: Intrinsic vs. Extrinsic Motivation. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Choose a goal and write a five-minute first step with a time and place.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-motivation-3",
+        "title": "Overcoming Procrastination",
+        "minutes": 8,
+        "objectives": [
+          "Explain overcoming procrastination in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Connect a task to a value you care about. Make the next action small and concrete, choose when and where to do it, and reduce one source of friction. Review what worked instead of relying on feeling motivated every day.",
+          "Practice focus: Overcoming Procrastination. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Choose a goal and write a five-minute first step with a time and place.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-motivation-4",
+        "title": "Building Habits for Success",
+        "minutes": 8,
+        "objectives": [
+          "Explain building habits for success in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Connect a task to a value you care about. Make the next action small and concrete, choose when and where to do it, and reduce one source of friction. Review what worked instead of relying on feeling motivated every day.",
+          "Practice focus: Building Habits for Success. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Choose a goal and write a five-minute first step with a time and place.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-motivation-5",
+        "title": "Self-Reward Systems",
+        "minutes": 8,
+        "objectives": [
+          "Explain self-reward systems in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Connect a task to a value you care about. Make the next action small and concrete, choose when and where to do it, and reduce one source of friction. Review what worked instead of relying on feeling motivated every day.",
+          "Practice focus: Self-Reward Systems. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Choose a goal and write a five-minute first step with a time and place.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "self-compassion",
+    "title": "Self-Compassion",
+    "domain": "Personal Development",
+    "description": "Build practical self-compassion skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "self-compassion-1",
+        "title": "Understanding Self-Compassion",
+        "minutes": 8,
+        "objectives": [
+          "Explain understanding self-compassion in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Notice self-critical language and describe the difficulty without attacking yourself. Consider what you would say to a friend in the same situation. A supportive response can acknowledge responsibility and still choose a helpful next step.",
+          "Practice focus: Understanding Self-Compassion. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Rewrite one self-critical thought as a realistic, supportive statement with a next action.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-compassion-2",
+        "title": "Practicing Kindness to Yourself",
+        "minutes": 8,
+        "objectives": [
+          "Explain practicing kindness to yourself in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Notice self-critical language and describe the difficulty without attacking yourself. Consider what you would say to a friend in the same situation. A supportive response can acknowledge responsibility and still choose a helpful next step.",
+          "Practice focus: Practicing Kindness to Yourself. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Rewrite one self-critical thought as a realistic, supportive statement with a next action.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-compassion-3",
+        "title": "Overcoming Self-Criticism",
+        "minutes": 8,
+        "objectives": [
+          "Explain overcoming self-criticism in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Notice self-critical language and describe the difficulty without attacking yourself. Consider what you would say to a friend in the same situation. A supportive response can acknowledge responsibility and still choose a helpful next step.",
+          "Practice focus: Overcoming Self-Criticism. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Rewrite one self-critical thought as a realistic, supportive statement with a next action.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-compassion-4",
+        "title": "Mindful Self-Awareness",
+        "minutes": 8,
+        "objectives": [
+          "Explain mindful self-awareness in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Notice self-critical language and describe the difficulty without attacking yourself. Consider what you would say to a friend in the same situation. A supportive response can acknowledge responsibility and still choose a helpful next step.",
+          "Practice focus: Mindful Self-Awareness. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Rewrite one self-critical thought as a realistic, supportive statement with a next action.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-compassion-5",
+        "title": "Journaling for Self-Compassion",
+        "minutes": 8,
+        "objectives": [
+          "Explain journaling for self-compassion in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Notice self-critical language and describe the difficulty without attacking yourself. Consider what you would say to a friend in the same situation. A supportive response can acknowledge responsibility and still choose a helpful next step.",
+          "Practice focus: Journaling for Self-Compassion. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Rewrite one self-critical thought as a realistic, supportive statement with a next action.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "learning-from-failure",
+    "title": "Learning from Failure",
+    "domain": "Personal Development",
+    "description": "Build practical learning from failure skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "learning-from-failure-1",
+        "title": "Embracing a Growth Mindset",
+        "minutes": 8,
+        "objectives": [
+          "Explain embracing a growth mindset in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Separate an outcome from your identity. List what you expected, what happened, and which factors were within your control. Choose one change to test next time. A useful review produces evidence and an experiment rather than blame.",
+          "Practice focus: Embracing a Growth Mindset. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a setback, what you learned, and one change you will test.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "learning-from-failure-2",
+        "title": "Analyzing Failures Constructively",
+        "minutes": 8,
+        "objectives": [
+          "Explain analyzing failures constructively in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Separate an outcome from your identity. List what you expected, what happened, and which factors were within your control. Choose one change to test next time. A useful review produces evidence and an experiment rather than blame.",
+          "Practice focus: Analyzing Failures Constructively. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a setback, what you learned, and one change you will test.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "learning-from-failure-3",
+        "title": "Building Resilience through Failure",
+        "minutes": 8,
+        "objectives": [
+          "Explain building resilience through failure in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Separate an outcome from your identity. List what you expected, what happened, and which factors were within your control. Choose one change to test next time. A useful review produces evidence and an experiment rather than blame.",
+          "Practice focus: Building Resilience through Failure. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a setback, what you learned, and one change you will test.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "learning-from-failure-4",
+        "title": "Learning from Mistakes",
+        "minutes": 8,
+        "objectives": [
+          "Explain learning from mistakes in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Separate an outcome from your identity. List what you expected, what happened, and which factors were within your control. Choose one change to test next time. A useful review produces evidence and an experiment rather than blame.",
+          "Practice focus: Learning from Mistakes. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a setback, what you learned, and one change you will test.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "learning-from-failure-5",
+        "title": "Stories of Success through Failure",
+        "minutes": 8,
+        "objectives": [
+          "Explain stories of success through failure in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Separate an outcome from your identity. List what you expected, what happened, and which factors were within your control. Choose one change to test next time. A useful review produces evidence and an experiment rather than blame.",
+          "Practice focus: Stories of Success through Failure. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a setback, what you learned, and one change you will test.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mindfulness-and-meditation",
+    "title": "Mindfulness and Meditation",
+    "domain": "Personal Development",
+    "description": "Build practical mindfulness and meditation skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "mindfulness-and-meditation-1",
+        "title": "Introduction to Mindfulness",
+        "minutes": 8,
+        "objectives": [
+          "Explain introduction to mindfulness in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Mindfulness is paying attention to present experience without needing to force it to change. Try noticing your feet on the floor and three things around you. If focusing on breathing feels uncomfortable, use an external sound or stop the practice.",
+          "Practice focus: Introduction to Mindfulness. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Practise a brief comfortable grounding exercise and record what you noticed.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "mindfulness-and-meditation-2",
+        "title": "Different Meditation Techniques",
+        "minutes": 8,
+        "objectives": [
+          "Explain different meditation techniques in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Mindfulness is paying attention to present experience without needing to force it to change. Try noticing your feet on the floor and three things around you. If focusing on breathing feels uncomfortable, use an external sound or stop the practice.",
+          "Practice focus: Different Meditation Techniques. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Practise a brief comfortable grounding exercise and record what you noticed.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "mindfulness-and-meditation-3",
+        "title": "Daily Mindfulness Practices",
+        "minutes": 8,
+        "objectives": [
+          "Explain daily mindfulness practices in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Mindfulness is paying attention to present experience without needing to force it to change. Try noticing your feet on the floor and three things around you. If focusing on breathing feels uncomfortable, use an external sound or stop the practice.",
+          "Practice focus: Daily Mindfulness Practices. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Practise a brief comfortable grounding exercise and record what you noticed.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "mindfulness-and-meditation-4",
+        "title": "Benefits of Mindfulness",
+        "minutes": 8,
+        "objectives": [
+          "Explain benefits of mindfulness in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Mindfulness is paying attention to present experience without needing to force it to change. Try noticing your feet on the floor and three things around you. If focusing on breathing feels uncomfortable, use an external sound or stop the practice.",
+          "Practice focus: Benefits of Mindfulness. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Practise a brief comfortable grounding exercise and record what you noticed.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "mindfulness-and-meditation-5",
+        "title": "Guided Meditations",
+        "minutes": 8,
+        "objectives": [
+          "Explain guided meditations in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Mindfulness is paying attention to present experience without needing to force it to change. Try noticing your feet on the floor and three things around you. If focusing on breathing feels uncomfortable, use an external sound or stop the practice.",
+          "Practice focus: Guided Meditations. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Practise a brief comfortable grounding exercise and record what you noticed.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "self-awareness",
+    "title": "Self-Awareness",
+    "domain": "Personal Development",
+    "description": "Build practical self-awareness skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "self-awareness-1",
+        "title": "Understanding Self-Awareness",
+        "minutes": 8,
+        "objectives": [
+          "Explain understanding self-awareness in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Observe patterns in your attention, energy, values, and behaviour. Compare your intentions with specific events and seek feedback from someone you trust. Self-awareness is an ongoing process, not a fixed personality label.",
+          "Practice focus: Understanding Self-Awareness. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a situation that energised you, one that drained you, and a pattern you noticed.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-awareness-2",
+        "title": "Techniques for Self-Reflection",
+        "minutes": 8,
+        "objectives": [
+          "Explain techniques for self-reflection in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Observe patterns in your attention, energy, values, and behaviour. Compare your intentions with specific events and seek feedback from someone you trust. Self-awareness is an ongoing process, not a fixed personality label.",
+          "Practice focus: Techniques for Self-Reflection. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a situation that energised you, one that drained you, and a pattern you noticed.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-awareness-3",
+        "title": "Identifying Strengths and Weaknesses",
+        "minutes": 8,
+        "objectives": [
+          "Explain identifying strengths and weaknesses in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Observe patterns in your attention, energy, values, and behaviour. Compare your intentions with specific events and seek feedback from someone you trust. Self-awareness is an ongoing process, not a fixed personality label.",
+          "Practice focus: Identifying Strengths and Weaknesses. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a situation that energised you, one that drained you, and a pattern you noticed.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-awareness-4",
+        "title": "Setting Personal Goals",
+        "minutes": 8,
+        "objectives": [
+          "Explain setting personal goals in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Observe patterns in your attention, energy, values, and behaviour. Compare your intentions with specific events and seek feedback from someone you trust. Self-awareness is an ongoing process, not a fixed personality label.",
+          "Practice focus: Setting Personal Goals. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a situation that energised you, one that drained you, and a pattern you noticed.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "self-awareness-5",
+        "title": "Self-Monitoring and Adjustment",
+        "minutes": 8,
+        "objectives": [
+          "Explain self-monitoring and adjustment in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Observe patterns in your attention, energy, values, and behaviour. Compare your intentions with specific events and seek feedback from someone you trust. Self-awareness is an ongoing process, not a fixed personality label.",
+          "Practice focus: Self-Monitoring and Adjustment. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Describe a situation that energised you, one that drained you, and a pattern you noticed.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anger-management",
+    "title": "Anger Management",
+    "domain": "Personal Development",
+    "description": "Build practical anger management skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "anger-management-1",
+        "title": "Understanding Anger Triggers",
+        "minutes": 8,
+        "objectives": [
+          "Explain understanding anger triggers in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Anger can signal that something matters, but harmful actions are not inevitable. Identify early physical cues, create space when safe, and communicate the issue without threats. If anyone is in immediate danger, prioritise safety over continuing the discussion.",
+          "Practice focus: Understanding Anger Triggers. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Name an early warning sign and write a safe pause-and-return plan.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "anger-management-2",
+        "title": "Techniques for Managing Anger",
+        "minutes": 8,
+        "objectives": [
+          "Explain techniques for managing anger in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Anger can signal that something matters, but harmful actions are not inevitable. Identify early physical cues, create space when safe, and communicate the issue without threats. If anyone is in immediate danger, prioritise safety over continuing the discussion.",
+          "Practice focus: Techniques for Managing Anger. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Name an early warning sign and write a safe pause-and-return plan.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "anger-management-3",
+        "title": "Healthy Ways to Express Anger",
+        "minutes": 8,
+        "objectives": [
+          "Explain healthy ways to express anger in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Anger can signal that something matters, but harmful actions are not inevitable. Identify early physical cues, create space when safe, and communicate the issue without threats. If anyone is in immediate danger, prioritise safety over continuing the discussion.",
+          "Practice focus: Healthy Ways to Express Anger. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Name an early warning sign and write a safe pause-and-return plan.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "anger-management-4",
+        "title": "Developing Patience",
+        "minutes": 8,
+        "objectives": [
+          "Explain developing patience in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Anger can signal that something matters, but harmful actions are not inevitable. Identify early physical cues, create space when safe, and communicate the issue without threats. If anyone is in immediate danger, prioritise safety over continuing the discussion.",
+          "Practice focus: Developing Patience. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Name an early warning sign and write a safe pause-and-return plan.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "anger-management-5",
+        "title": "Conflict Resolution Skills",
+        "minutes": 8,
+        "objectives": [
+          "Explain conflict resolution skills in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Anger can signal that something matters, but harmful actions are not inevitable. Identify early physical cues, create space when safe, and communicate the issue without threats. If anyone is in immediate danger, prioritise safety over continuing the discussion.",
+          "Practice focus: Conflict Resolution Skills. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Name an early warning sign and write a safe pause-and-return plan.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gratitude-practices",
+    "title": "Gratitude Practices",
+    "domain": "Personal Development",
+    "description": "Build practical gratitude practices skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "gratitude-practices-1",
+        "title": "Benefits of Gratitude",
+        "minutes": 8,
+        "objectives": [
+          "Explain benefits of gratitude in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Gratitude involves noticing specific things you appreciate. It can coexist with sadness or difficulty and should not require pretending everything is positive. Name what happened, why it mattered, and how you might express appreciation.",
+          "Practice focus: Benefits of Gratitude. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Record one specific thing you appreciated today and why it mattered.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "gratitude-practices-2",
+        "title": "Daily Gratitude Journaling",
+        "minutes": 8,
+        "objectives": [
+          "Explain daily gratitude journaling in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Gratitude involves noticing specific things you appreciate. It can coexist with sadness or difficulty and should not require pretending everything is positive. Name what happened, why it mattered, and how you might express appreciation.",
+          "Practice focus: Daily Gratitude Journaling. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Record one specific thing you appreciated today and why it mattered.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "gratitude-practices-3",
+        "title": "Expressing Gratitude to Others",
+        "minutes": 8,
+        "objectives": [
+          "Explain expressing gratitude to others in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Gratitude involves noticing specific things you appreciate. It can coexist with sadness or difficulty and should not require pretending everything is positive. Name what happened, why it mattered, and how you might express appreciation.",
+          "Practice focus: Expressing Gratitude to Others. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Record one specific thing you appreciated today and why it mattered.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "gratitude-practices-4",
+        "title": "Gratitude Meditation",
+        "minutes": 8,
+        "objectives": [
+          "Explain gratitude meditation in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Gratitude involves noticing specific things you appreciate. It can coexist with sadness or difficulty and should not require pretending everything is positive. Name what happened, why it mattered, and how you might express appreciation.",
+          "Practice focus: Gratitude Meditation. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Record one specific thing you appreciated today and why it mattered.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "gratitude-practices-5",
+        "title": "Creating a Gratitude Habit",
+        "minutes": 8,
+        "objectives": [
+          "Explain creating a gratitude habit in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Gratitude involves noticing specific things you appreciate. It can coexist with sadness or difficulty and should not require pretending everything is positive. Name what happened, why it mattered, and how you might express appreciation.",
+          "Practice focus: Creating a Gratitude Habit. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Record one specific thing you appreciated today and why it mattered.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "financial-literacy",
+    "title": "Financial Literacy",
+    "domain": "Financial Skills",
+    "description": "Build practical financial literacy skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "financial-literacy-1",
+        "title": "Basics of Personal Finance",
+        "minutes": 8,
+        "objectives": [
+          "Explain basics of personal finance in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Distinguish income, essential spending, savings, and borrowing. Interest is a cost for borrowing and may be a return on savings. Simple interest uses the original amount; compound interest also applies to prior interest. Rates, fees, tax, and inflation affect actual outcomes.",
+          "Practice focus: Basics of Personal Finance. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "List an income source, an essential expense, a savings goal, and one fee or rate you need to check.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "financial-literacy-2",
+        "title": "Understanding Interest Rates",
+        "minutes": 8,
+        "objectives": [
+          "Explain understanding interest rates in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Distinguish income, essential spending, savings, and borrowing. Interest is a cost for borrowing and may be a return on savings. Simple interest uses the original amount; compound interest also applies to prior interest. Rates, fees, tax, and inflation affect actual outcomes.",
+          "Practice focus: Understanding Interest Rates. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "List an income source, an essential expense, a savings goal, and one fee or rate you need to check.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "financial-literacy-3",
+        "title": "Saving and Investing",
+        "minutes": 8,
+        "objectives": [
+          "Explain saving and investing in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Distinguish income, essential spending, savings, and borrowing. Interest is a cost for borrowing and may be a return on savings. Simple interest uses the original amount; compound interest also applies to prior interest. Rates, fees, tax, and inflation affect actual outcomes.",
+          "Practice focus: Saving and Investing. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "List an income source, an essential expense, a savings goal, and one fee or rate you need to check.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "financial-literacy-4",
+        "title": "Credit and Debt Management",
+        "minutes": 8,
+        "objectives": [
+          "Explain credit and debt management in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Distinguish income, essential spending, savings, and borrowing. Interest is a cost for borrowing and may be a return on savings. Simple interest uses the original amount; compound interest also applies to prior interest. Rates, fees, tax, and inflation affect actual outcomes.",
+          "Practice focus: Credit and Debt Management. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "List an income source, an essential expense, a savings goal, and one fee or rate you need to check.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "financial-literacy-5",
+        "title": "Financial Planning",
+        "minutes": 8,
+        "objectives": [
+          "Explain financial planning in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Distinguish income, essential spending, savings, and borrowing. Interest is a cost for borrowing and may be a return on savings. Simple interest uses the original amount; compound interest also applies to prior interest. Rates, fees, tax, and inflation affect actual outcomes.",
+          "Practice focus: Financial Planning. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "List an income source, an essential expense, a savings goal, and one fee or rate you need to check.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grocery-shopping",
+    "title": "Grocery Shopping",
+    "domain": "Financial Skills",
+    "description": "Build practical grocery shopping skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "grocery-shopping-1",
+        "title": "Budgeting for Groceries",
+        "minutes": 8,
+        "objectives": [
+          "Explain budgeting for groceries in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Plan meals around food you already have, compare unit prices rather than pack prices, and make a list. A discount only saves money if you need and can use the item. Check storage and use-by guidance to reduce waste.",
+          "Practice focus: Budgeting for Groceries. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Make a three-item shopping list with a budget and one unit-price comparison.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "grocery-shopping-2",
+        "title": "Reading Nutrition Labels",
+        "minutes": 8,
+        "objectives": [
+          "Explain reading nutrition labels in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Plan meals around food you already have, compare unit prices rather than pack prices, and make a list. A discount only saves money if you need and can use the item. Check storage and use-by guidance to reduce waste.",
+          "Practice focus: Reading Nutrition Labels. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Make a three-item shopping list with a budget and one unit-price comparison.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "grocery-shopping-3",
+        "title": "Shopping for Discounts",
+        "minutes": 8,
+        "objectives": [
+          "Explain shopping for discounts in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Plan meals around food you already have, compare unit prices rather than pack prices, and make a list. A discount only saves money if you need and can use the item. Check storage and use-by guidance to reduce waste.",
+          "Practice focus: Shopping for Discounts. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Make a three-item shopping list with a budget and one unit-price comparison.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "grocery-shopping-4",
+        "title": "Meal Planning and Preparation",
+        "minutes": 8,
+        "objectives": [
+          "Explain meal planning and preparation in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Plan meals around food you already have, compare unit prices rather than pack prices, and make a list. A discount only saves money if you need and can use the item. Check storage and use-by guidance to reduce waste.",
+          "Practice focus: Meal Planning and Preparation. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Make a three-item shopping list with a budget and one unit-price comparison.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "grocery-shopping-5",
+        "title": "Reducing Food Waste",
+        "minutes": 8,
+        "objectives": [
+          "Explain reducing food waste in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Plan meals around food you already have, compare unit prices rather than pack prices, and make a list. A discount only saves money if you need and can use the item. Check storage and use-by guidance to reduce waste.",
+          "Practice focus: Reducing Food Waste. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Make a three-item shopping list with a budget and one unit-price comparison.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "managing-student-loans",
+    "title": "Managing Student Loans",
+    "domain": "Financial Skills",
+    "description": "Build practical managing student loans skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "managing-student-loans-1",
+        "title": "Types of Student Loans",
+        "minutes": 8,
+        "objectives": [
+          "Explain types of student loans in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Loan repayment rules depend on your location, loan type, income, and contract. Identify your provider and official repayment terms before making decisions. Compare total costs and protections before refinancing because benefits can be lost.",
+          "Practice focus: Types of Student Loans. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Record your loan type, provider, and three questions to check against the official terms.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "managing-student-loans-2",
+        "title": "Loan Repayment Plans",
+        "minutes": 8,
+        "objectives": [
+          "Explain loan repayment plans in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Loan repayment rules depend on your location, loan type, income, and contract. Identify your provider and official repayment terms before making decisions. Compare total costs and protections before refinancing because benefits can be lost.",
+          "Practice focus: Loan Repayment Plans. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Record your loan type, provider, and three questions to check against the official terms.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "managing-student-loans-3",
+        "title": "Refinancing Options",
+        "minutes": 8,
+        "objectives": [
+          "Explain refinancing options in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Loan repayment rules depend on your location, loan type, income, and contract. Identify your provider and official repayment terms before making decisions. Compare total costs and protections before refinancing because benefits can be lost.",
+          "Practice focus: Refinancing Options. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Record your loan type, provider, and three questions to check against the official terms.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "managing-student-loans-4",
+        "title": "Budgeting for Loan Repayment",
+        "minutes": 8,
+        "objectives": [
+          "Explain budgeting for loan repayment in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Loan repayment rules depend on your location, loan type, income, and contract. Identify your provider and official repayment terms before making decisions. Compare total costs and protections before refinancing because benefits can be lost.",
+          "Practice focus: Budgeting for Loan Repayment. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Record your loan type, provider, and three questions to check against the official terms.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "managing-student-loans-5",
+        "title": "Avoiding Loan Default",
+        "minutes": 8,
+        "objectives": [
+          "Explain avoiding loan default in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Loan repayment rules depend on your location, loan type, income, and contract. Identify your provider and official repayment terms before making decisions. Compare total costs and protections before refinancing because benefits can be lost.",
+          "Practice focus: Avoiding Loan Default. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Record your loan type, provider, and three questions to check against the official terms.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "understanding-credit-scores",
+    "title": "Understanding Credit Scores",
+    "domain": "Financial Skills",
+    "description": "Build practical understanding credit scores skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "understanding-credit-scores-1",
+        "title": "What is a Credit Score?",
+        "minutes": 8,
+        "objectives": [
+          "Explain what is a credit score? in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Credit scores summarise information in a credit file, and providers use different models. Check your report for errors, pay agreed bills on time where possible, and understand the cost of borrowing. A score alone does not determine every lending decision.",
+          "Practice focus: What is a Credit Score?. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "List two records to check on your credit file and one affordable payment habit.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "understanding-credit-scores-2",
+        "title": "Factors Affecting Credit Scores",
+        "minutes": 8,
+        "objectives": [
+          "Explain factors affecting credit scores in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Credit scores summarise information in a credit file, and providers use different models. Check your report for errors, pay agreed bills on time where possible, and understand the cost of borrowing. A score alone does not determine every lending decision.",
+          "Practice focus: Factors Affecting Credit Scores. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "List two records to check on your credit file and one affordable payment habit.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "understanding-credit-scores-3",
+        "title": "Improving Your Credit Score",
+        "minutes": 8,
+        "objectives": [
+          "Explain improving your credit score in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Credit scores summarise information in a credit file, and providers use different models. Check your report for errors, pay agreed bills on time where possible, and understand the cost of borrowing. A score alone does not determine every lending decision.",
+          "Practice focus: Improving Your Credit Score. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "List two records to check on your credit file and one affordable payment habit.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "understanding-credit-scores-4",
+        "title": "Monitoring Your Credit",
+        "minutes": 8,
+        "objectives": [
+          "Explain monitoring your credit in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Credit scores summarise information in a credit file, and providers use different models. Check your report for errors, pay agreed bills on time where possible, and understand the cost of borrowing. A score alone does not determine every lending decision.",
+          "Practice focus: Monitoring Your Credit. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "List two records to check on your credit file and one affordable payment habit.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "understanding-credit-scores-5",
+        "title": "Using Credit Responsibly",
+        "minutes": 8,
+        "objectives": [
+          "Explain using credit responsibly in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Credit scores summarise information in a credit file, and providers use different models. Check your report for errors, pay agreed bills on time where possible, and understand the cost of borrowing. A score alone does not determine every lending decision.",
+          "Practice focus: Using Credit Responsibly. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "List two records to check on your credit file and one affordable payment habit.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bookkeeping",
+    "title": "Bookkeeping",
+    "domain": "Financial Skills",
+    "description": "Build practical bookkeeping skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "bookkeeping-1",
+        "title": "Basics of Bookkeeping",
+        "minutes": 8,
+        "objectives": [
+          "Explain basics of bookkeeping in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Keep a dated record of money received and spent, attach receipts, and reconcile records with statements. Separate business and personal activity where appropriate. Tax requirements depend on location and circumstances, so check official guidance before filing.",
+          "Practice focus: Basics of Bookkeeping. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Create a sample record with date, description, category, money in, and money out.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "bookkeeping-2",
+        "title": "Tracking Income and Expenses",
+        "minutes": 8,
+        "objectives": [
+          "Explain tracking income and expenses in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Keep a dated record of money received and spent, attach receipts, and reconcile records with statements. Separate business and personal activity where appropriate. Tax requirements depend on location and circumstances, so check official guidance before filing.",
+          "Practice focus: Tracking Income and Expenses. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Create a sample record with date, description, category, money in, and money out.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "bookkeeping-3",
+        "title": "Using Bookkeeping Software",
+        "minutes": 8,
+        "objectives": [
+          "Explain using bookkeeping software in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Keep a dated record of money received and spent, attach receipts, and reconcile records with statements. Separate business and personal activity where appropriate. Tax requirements depend on location and circumstances, so check official guidance before filing.",
+          "Practice focus: Using Bookkeeping Software. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Create a sample record with date, description, category, money in, and money out.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "bookkeeping-4",
+        "title": "Financial Reporting",
+        "minutes": 8,
+        "objectives": [
+          "Explain financial reporting in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Keep a dated record of money received and spent, attach receipts, and reconcile records with statements. Separate business and personal activity where appropriate. Tax requirements depend on location and circumstances, so check official guidance before filing.",
+          "Practice focus: Financial Reporting. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Create a sample record with date, description, category, money in, and money out.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "bookkeeping-5",
+        "title": "Tax Preparation Basics",
+        "minutes": 8,
+        "objectives": [
+          "Explain tax preparation basics in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Keep a dated record of money received and spent, attach receipts, and reconcile records with statements. Separate business and personal activity where appropriate. Tax requirements depend on location and circumstances, so check official guidance before filing.",
+          "Practice focus: Tax Preparation Basics. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Create a sample record with date, description, category, money in, and money out.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "budgeting",
+    "title": "Budgeting",
+    "domain": "Financial Skills",
+    "description": "Build practical budgeting skills through five focused lessons and real-world practice.",
+    "lessons": [
+      {
+        "id": "budgeting-1",
+        "title": "Creating a Personal Budget",
+        "minutes": 8,
+        "objectives": [
+          "Explain creating a personal budget in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Start with reliable take-home income and list essential costs, variable spending, and savings commitments. Suggested percentages are starting points, not rules. Compare your actual spending with your plan, then adjust amounts realistically.",
+          "Practice focus: Creating a Personal Budget. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Create a monthly budget and identify one category you will review next week.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "budgeting-2",
+        "title": "Tracking Spending",
+        "minutes": 8,
+        "objectives": [
+          "Explain tracking spending in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Start with reliable take-home income and list essential costs, variable spending, and savings commitments. Suggested percentages are starting points, not rules. Compare your actual spending with your plan, then adjust amounts realistically.",
+          "Practice focus: Tracking Spending. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Create a monthly budget and identify one category you will review next week.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "budgeting-3",
+        "title": "Adjusting Your Budget",
+        "minutes": 8,
+        "objectives": [
+          "Explain adjusting your budget in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Start with reliable take-home income and list essential costs, variable spending, and savings commitments. Suggested percentages are starting points, not rules. Compare your actual spending with your plan, then adjust amounts realistically.",
+          "Practice focus: Adjusting Your Budget. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Create a monthly budget and identify one category you will review next week.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "budgeting-4",
+        "title": "Saving Strategies",
+        "minutes": 8,
+        "objectives": [
+          "Explain saving strategies in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Start with reliable take-home income and list essential costs, variable spending, and savings commitments. Suggested percentages are starting points, not rules. Compare your actual spending with your plan, then adjust amounts realistically.",
+          "Practice focus: Saving Strategies. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Create a monthly budget and identify one category you will review next week.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      },
+      {
+        "id": "budgeting-5",
+        "title": "Long-term Financial Goals",
+        "minutes": 8,
+        "objectives": [
+          "Explain long-term financial goals in your own words.",
+          "Apply one practical step to your current situation."
+        ],
+        "body": [
+          "Start with reliable take-home income and list essential costs, variable spending, and savings commitments. Suggested percentages are starting points, not rules. Compare your actual spending with your plan, then adjust amounts realistically.",
+          "Practice focus: Long-term Financial Goals. Start with a real situation that is relevant to you, make one achievable change, and review the result. You can repeat this exercise as your circumstances change."
+        ],
+        "exercise": "Create a monthly budget and identify one category you will review next week.",
+        "quiz": [
+          {
+            "question": "Which action best supports this lesson in practice?",
+            "options": [
+              "Choose one specific action and review what happened.",
+              "Assume every situation has the same answer.",
+              "Avoid checking information or asking for help."
+            ],
+            "answer": 0,
+            "explanation": "A specific action and a review help you learn from your situation. Check relevant facts and ask for support when needed."
+          },
+          {
+            "question": "What makes a useful practice plan?",
+            "options": [
+              "A specific next step and a time to review it.",
+              "A promise to change everything immediately.",
+              "A fixed judgement about your ability."
+            ],
+            "answer": 0,
+            "explanation": "Small observable steps make it easier to practise, learn, and adjust."
+          }
+        ]
+      }
+    ]
+  }
+]

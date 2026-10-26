@@ -426,3 +426,12 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# Life Skills application runtime and Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+apps/life-skills/data/
+apps/life-skills/*.sqlite*
+apps/life-skills/*.db
+apps/life-skills/outbox/

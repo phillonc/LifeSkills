@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agency name="Life Skills" framework="DSDM-Agency">
+  <agent id="BA" role="Business Analyst" factory="business_analyst">
+    <task>Prioritise supplied PRD and distinguish initial increment from platform strategy.</task>
+    <tools><tool>requirements_analysis</tool><tool>moscow_prioritisation</tool></tools>
+  </agent>
+  <agent id="PM" role="Project Manager" factory="project_manager">
+    <task>Plan bounded increments and record unresolved delivery risks.</task>
+    <tools><tool>timebox_planner</tool><tool>risk_log</tool></tools>
+  </agent>
+  <agent id="DEV" role="Solution Developer" factory="solution_developer">
+    <task>Implement accounts, learning, saved lesson drafts, four goal templates, activity analytics, savings records and responsive UI.</task>
+    <evidence>Implementation file SHA-256 manifest</evidence>
+  </agent>
+  <agent id="QA" role="Solution Tester" factory="solution_tester">
+    <task>Independently test account lifecycle, scoring, drafts, bounded activity, derived goals, savings precision, migrations and learner isolation.</task>
+    <evidence>HTTP integration test command, exit status and output</evidence>
+  </agent>
+  <runner>python -m examples.life_skills_delivery</runner>
+  <runtime>Explicit deterministic Python handlers. No autonomous LLM service or MCP server is deployed.</runtime>
+</agency>

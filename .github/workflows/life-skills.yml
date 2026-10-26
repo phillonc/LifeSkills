@@ -1,0 +1,59 @@
+name: Life Skills acceptance
+on:
+  pull_request:
+    paths:
+      - 'apps/life-skills/**'
+      - 'agents_framework/**'
+      - 'examples/life_skills_delivery.py'
+      - '.github/workflows/life-skills.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  acceptance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -e ".[dev]"
+      - run: python -m pytest -q
+      - run: python -m examples.life_skills_delivery > life-skills-evidence.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: life-skills-evidence
+          path: life-skills-evidence.json
+  browser-acceptance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install browser test dependency
+        run: npm install --prefix "$RUNNER_TEMP/life-skills-browser" playwright@1.62.1 @sparticuz/chromium@153.0.0 --no-audit --no-fund
+      - name: Extract pinned Linux Chromium
+        run: |
+          node - <<'JS'
+          const fs=require('node:fs'),path=require('node:path'),zlib=require('node:zlib');
+          const root=path.join(process.env.RUNNER_TEMP,'life-skills-browser');
+          const input=path.join(root,'node_modules/@sparticuz/chromium/bin/chromium.br');
+          const output=path.join(root,'chromium');
+          fs.writeFileSync(output,zlib.brotliDecompressSync(fs.readFileSync(input)));
+          fs.chmodSync(output,0o755);
+          JS
+      - name: Rendered desktop and mobile acceptance
+        env:
+          NODE_PATH: ${{ runner.temp }}/life-skills-browser/node_modules
+          LIFE_SKILLS_BROWSER_PATH: ${{ runner.temp }}/life-skills-browser/chromium
+        run: node apps/life-skills/scripts/browser-acceptance.cjs > life-skills-browser-evidence.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: life-skills-browser-evidence
+          path: life-skills-browser-evidence.json

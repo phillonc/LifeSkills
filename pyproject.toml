@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dsdm-agents-framework"
+version = "0.1.0"
+description = "A lightweight, DSDM-aligned agents/tools/tasks framework"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "DSDM-Agency" }]
+keywords = ["dsdm", "agile", "agents", "framework", "moscow", "timebox"]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[tool.setuptools.packages.find]
+include = ["agents_framework*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
